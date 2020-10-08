@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrexmexCaseManagementApi", "PrexmexCaseManagementApi\PrexmexCaseManagementApi.csproj", "{64866D89-87D5-48B7-A1FB-BC62FA5A5BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64866D89-87D5-48B7-A1FB-BC62FA5A5BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64866D89-87D5-48B7-A1FB-BC62FA5A5BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64866D89-87D5-48B7-A1FB-BC62FA5A5BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64866D89-87D5-48B7-A1FB-BC62FA5A5BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E94BF8AD-EE8C-41BD-BB05-CF3EFC241B5B}
+	EndGlobalSection
+EndGlobal
